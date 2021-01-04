@@ -1,12 +1,12 @@
 {
-    "name": "PlayerController",
+    "name": "PlayerMove",
     "maps": [
         {
             "name": "Move",
             "id": "230518f1-c958-4555-844d-7591e5873078",
             "actions": [
                 {
-                    "name": "ZQSD",
+                    "name": "arrows",
                     "type": "Button",
                     "id": "87214e8c-bdb9-42d9-ae2c-c98a29b4c056",
                     "expectedControlType": "Button",
@@ -30,7 +30,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "ZQSD",
+                    "action": "arrows",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -41,7 +41,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "ZQSD",
+                    "action": "arrows",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -52,7 +52,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "ZQSD",
+                    "action": "arrows",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },
@@ -63,7 +63,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "ZQSD",
+                    "action": "arrows",
                     "isComposite": false,
                     "isPartOfComposite": false
                 },

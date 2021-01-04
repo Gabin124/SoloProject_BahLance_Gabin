@@ -8,7 +8,7 @@ public class Menu : MonoBehaviour
 
     public void StartZeGame()
  {
-     SceneManager.LoadScene("Game");   //permet de charger la scene "Map"
+     SceneManager.LoadScene("Game");   //permet de charger la scene "Game"
  }
     public void QuitGame()
  {
